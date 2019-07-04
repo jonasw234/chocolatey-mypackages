@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>ripgrep-all</id>
-    <title>ripgrep-all</title>
+    <title>Ripgrep-All</title>
     <version>0.9.2</version>
     <authors>phiresky</authors>
     <owners>Jonas A. Wendorf</owners>
