@@ -28,7 +28,6 @@
     <licenseUrl>https://github.com/phiresky/ripgrep-all/blob/master/LICENSE.md</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
-      <dependency id="ripgrep" />
     </dependencies>
   </metadata>
   <files>

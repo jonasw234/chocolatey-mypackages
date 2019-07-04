@@ -15,5 +15,3 @@ $packageArgs = @{
 }
 
 Install-ChocolateyZipPackage @packageArgs
-$File = Get-ChildItem -File -Path $env:ChocolateyInstall\lib\$packageName\tools\ -Filter rga*.exe
-Get-ChocolateyUnzip -fileFullPath $File.FullName -destination $env:ChocolateyInstall\lib\$packageName\tools\
