@@ -18,7 +18,7 @@
         * Better installations instructions in readme for each OS
         * Add windows binaries! Including all dependencies!
     </releaseNotes>
-    <projectUrl>https://github.com/phiresky/ripgrep-all</projectUrl>
+    <projectUrl>https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/</projectUrl>
     <projectSourceUrl>https://github.com/phiresky/ripgrep-all</projectSourceUrl>
     <bugTrackerUrl>https://github.com/phiresky/ripgrep-all/issues</bugTrackerUrl>
     <docsUrl>https://github.com/phiresky/ripgrep-all/blob/master/README.md</docsUrl>
