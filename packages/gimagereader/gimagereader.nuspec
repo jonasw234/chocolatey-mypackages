@@ -24,7 +24,7 @@
     <projectSourceUrl>https://github.com/manisandro/gImageReader</projectSourceUrl>
     <bugTrackerUrl>https://github.com/manisandro/gImageReader/issues</bugTrackerUrl>
     <docsUrl>https://github.com/manisandro/gImageReader/wiki/FAQ</docsUrl>
-    <packageSourceUrl>https://github.com/jonasw234/chocolatey-mypackages/packages/gimagereader</packageSourceUrl>
+    <packageSourceUrl>https://github.com/jonasw234/chocolatey-mypackages/tree/master/packages/gimagereader</packageSourceUrl>
     <tags>ocr optical-character-recognition tesseract image reader</tags>
     <copyright></copyright>
     <licenseUrl>https://github.com/manisandro/gImageReader/blob/master/COPYING</licenseUrl>
