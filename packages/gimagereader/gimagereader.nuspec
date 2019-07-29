@@ -4,7 +4,7 @@
   <metadata>
     <id>gimagereader</id>
     <title>gImageReader</title>
-    <version>3.3.0</version>
+    <version>3.3.1</version>
     <authors>Sandro Mani</authors>
     <owners>Jonas A. Wendorf</owners>
     <summary>A Gtk/Qt front-end to tesseract-ocr.</summary>
@@ -12,13 +12,18 @@
         gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.
     </description>
     <releaseNotes>
-        gImageReader 3.3.0 (Sep 26 2018):
+        gImageReader 3.3.1 (Jul 28 2019):
 
-        This is the first stable release of the 3.3.x series. The main change compared to 3.2.99 is support for the script traineddatas which were introduced with tesseract 4.x.
-
-        As with previous releases, the Windows builds using tesseract 4 are still to be considered experimental.
-
-        For a full list of changes between 3.2.99 and 3.3.0, see the [git commit log](https://github.com/manisandro/gImageReader/compare/v3.2.99...v3.3.0).
+        - HOCR: propagate attributes to manually added elements (@foghawk)
+        - HOCR: improve spelling of hyphenated words (@foghawk)
+        - HOCR: improve spelling of words with special characters (@foghawk)
+        - HOCR: allow specifying a DPI to assume for image sources when exporting to PDF (@foghawk)
+        - HOCR: allow use to choose whether to sanitize hyphens when exporting to PDF
+        - HOCR: Attempt to map 639-2 language codes to ISO 639-1 to set spelling language
+        - Allow specifying character whitelist / blacklist for recognition
+        - Various bugfixes
+        - Translation updates
+        - Full details in commit log: https://github.com/manisandro/gImageReader/commits/master
     </releaseNotes>
     <projectUrl>https://github.com/manisandro/gImageReader</projectUrl>
     <projectSourceUrl>https://github.com/manisandro/gImageReader</projectSourceUrl>

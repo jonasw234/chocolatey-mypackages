@@ -11,10 +11,10 @@ $packageArgs = @{
     fileType       = "exe"
     packageName    = $packageName
     url            = $url
-    checksum       = "691d42eeb98522ef74e9f88b2161aa661856c75a"
+    checksum       = "2905d2b23c96073a9c762b828b4d3cac018a14e5"
     checksumType   = "sha1"
     url64bit       = $url64
-    checksum64     = "569684e98fdab6d331d19220ed52a871df270d92"
+    checksum64     = "6154e8332f2536419b52d2b74ff905789d4a7e9c"
     checksum64Type = "sha1"
     silentArgs     = "/S"
 }
